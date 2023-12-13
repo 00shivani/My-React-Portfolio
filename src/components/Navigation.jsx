@@ -1,16 +1,9 @@
 // Navigation.js
-import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 const Navigation = () => {
-  const [isDarkMode, setIsDarkMode] = useState(false);
-
-  const toggleDarkMode = () => {
-    setIsDarkMode(!isDarkMode);
-  };
-
   return (
-    <nav className={`navbar ${isDarkMode ? 'dark-mode' : ''}`}>
+    <nav>
       <div className="max-w-screen-xl flex items-center justify-between mx-auto">
         <ul className="menu">
           <li className="menu-item">

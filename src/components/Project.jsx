@@ -6,10 +6,8 @@ const Project = ({ title, image, description, deployedLink, githubLink }) => {
   return (
     <div className='project-container'>
 
-<div class="project-card max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-    <a href="#">
+<div class="project-card max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"> 
         <img class="project-image rounded-t-lg" src={image} alt="" />
-    </a>
     <div class="p-5">
         <h5 id='title' class="project-title mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{title}</h5>
         <p  class="project-description mb-3 font-normal text-gray-700">{description}</p>
