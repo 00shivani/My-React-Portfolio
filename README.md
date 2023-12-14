@@ -7,7 +7,7 @@ This is a portfolio I built using React. It uses React to render different pages
 - [Screenshots](Screenshots)
   
 
-# Technologies Used: 
+## Technologies Used: 
 1. React and ReactDOM:
 - "react": "^18.2.0"
 - "react-dom": "^18.2.0"
@@ -40,7 +40,7 @@ This is a portfolio I built using React. It uses React to render different pages
 8. React Scripts:
 - "react-scripts": "5.0.1"
 
-# Deployed URL: https://main--subtle-dragon-7893e8.netlify.app/about
+## Deployed URL: https://main--subtle-dragon-7893e8.netlify.app/about
 
 ![image](https://github.com/00shivani/My-React-Portfolio/assets/126500106/135c2255-7a0b-451d-afcf-33c9b9d34484)
 ![image](https://github.com/00shivani/My-React-Portfolio/assets/126500106/0d30cf20-ef51-4a8e-8947-2648936611c8)
