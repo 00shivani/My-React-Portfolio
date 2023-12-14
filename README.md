@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# React Challenge: React Portfolio
+This is a portfolio I built using React. It uses React to render different pages, and has single header, footer, and navigation components that appears throughout the application. Within the portfolio section, there is a single "Project" component which is used multiple times. This application is deployed to Netlify.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents:
+- [Technologies](#Technologies)
+- [Deployed URL](#Deployed-URL)
+- [Screenshots](Screenshots)
+  
 
-## Available Scripts
+# Technologies Used: 
+1. React and ReactDOM:
+- "react": "^18.2.0"
+- "react-dom": "^18.2.0"
 
-In the project directory, you can run:
+2. React Router:
+- "react-router-dom": "^6.20.1"
 
-### `npm start`
+3. Styled Components:
+- "styled-components": "^6.1.1"
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Testing Libraries:
+- "@testing-library/jest-dom": "^5.17.0"
+- "@testing-library/react": "^13.4.0"
+- "@testing-library/user-event": "^13.5.0"
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+5. Web Vitals:
+- "web-vitals": "^2.1.4"
+- Flowbite and Flowbite-React:
+- "flowbite": "^2.2.0"
+- "flowbite-react": "^0.7.2"
 
-### `npm test`
+6. Tailwind CSS:
+- "tailwindcss": "^3.3.6"
+- "postcss": "^8.4.32"
+- "autoprefixer": "^10.4.16"
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+7. Babel Plugin:
+- "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
 
-### `npm run build`
+8. React Scripts:
+- "react-scripts": "5.0.1"
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Deployed URL: https://main--subtle-dragon-7893e8.netlify.app/about
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/00shivani/My-React-Portfolio/assets/126500106/135c2255-7a0b-451d-afcf-33c9b9d34484)
+![image](https://github.com/00shivani/My-React-Portfolio/assets/126500106/0d30cf20-ef51-4a8e-8947-2648936611c8)
+![image](https://github.com/00shivani/My-React-Portfolio/assets/126500106/b6d6720e-93da-4686-a60b-c0133ff8f070)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
