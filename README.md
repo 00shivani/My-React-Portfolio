@@ -5,7 +5,7 @@ This is a portfolio I built using React. It uses React to render different pages
 - [Technologies](#Technologies)
 - [Deployed URL](#Deployed-URL)
 - [Screenshots](Screenshots)
-  
+- [Credits](Credits)
 
 ## Technologies Used: 
 1. React and ReactDOM:
@@ -42,9 +42,12 @@ This is a portfolio I built using React. It uses React to render different pages
 
 ## Deployed URL: https://main--subtle-dragon-7893e8.netlify.app/about
 
+## Screenshots
 ![image](https://github.com/00shivani/My-React-Portfolio/assets/126500106/135c2255-7a0b-451d-afcf-33c9b9d34484)
 ![image](https://github.com/00shivani/My-React-Portfolio/assets/126500106/0d30cf20-ef51-4a8e-8947-2648936611c8)
 ![image](https://github.com/00shivani/My-React-Portfolio/assets/126500106/b6d6720e-93da-4686-a60b-c0133ff8f070)
 
+## Credits
+- chat GPT
 
 
